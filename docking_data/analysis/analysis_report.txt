@@ -1,0 +1,6 @@
+BINDING AFFINITY SUMMARY
+Protein      EGFR  ErbB2  ErbB3  ErbB4
+Ligand                                
+Apigenin    -8.67  -9.16  -8.60  -8.43
+Curcumin    -7.61  -7.73  -7.62  -8.33
+Osimertinib -8.69  -8.37  -7.53  -8.97

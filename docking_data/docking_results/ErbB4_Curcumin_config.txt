@@ -1,0 +1,16 @@
+
+receptor = /Users/amirmac/WorkSpace/Codes/BioInformatics/EGFR Family Molecular Docking/docking_data/proteins/ErbB4_complete.pdbqt
+ligand = /Users/amirmac/WorkSpace/Codes/BioInformatics/EGFR Family Molecular Docking/docking_data/ligands/Curcumin.pdbqt
+out = /Users/amirmac/WorkSpace/Codes/BioInformatics/EGFR Family Molecular Docking/docking_data/docking_results/ErbB4_Curcumin_out.pdbqt
+
+center_x = -30.978
+center_y = 42.410
+center_z = -0.555
+
+size_x = 72.822
+size_y = 83.848
+size_z = 93.789
+
+exhaustiveness = 32
+num_modes = 9
+energy_range = 3

@@ -1,0 +1,5 @@
+Protein,PDB_ID,Resolution (Å),Missing_Regions,UniProt
+EGFR (ErbB1),1M17,2.6,2,P00533
+ErbB2 (HER2),3PP0,2.25,43,P04626
+ErbB3 (HER3),3LMG,2.8,9,P21860
+ErbB4 (HER4),3BBT,2.8,31,Q15303

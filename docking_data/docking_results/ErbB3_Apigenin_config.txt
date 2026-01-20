@@ -1,0 +1,16 @@
+
+receptor = /Users/amirmac/WorkSpace/Codes/BioInformatics/EGFR Family Molecular Docking/docking_data/proteins/ErbB3_complete.pdbqt
+ligand = /Users/amirmac/WorkSpace/Codes/BioInformatics/EGFR Family Molecular Docking/docking_data/ligands/Apigenin.pdbqt
+out = /Users/amirmac/WorkSpace/Codes/BioInformatics/EGFR Family Molecular Docking/docking_data/docking_results/ErbB3_Apigenin_out.pdbqt
+
+center_x = 12.190
+center_y = -24.874
+center_z = 39.205
+
+size_x = 70.112
+size_y = 67.980
+size_z = 100.892
+
+exhaustiveness = 32
+num_modes = 9
+energy_range = 3
